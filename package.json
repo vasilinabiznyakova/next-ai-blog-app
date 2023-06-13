@@ -9,8 +9,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "vercel-build": "prisma generate"
+    "lint": "next lint"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
