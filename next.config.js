@@ -1,4 +1,10 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  // images: { unoptimized: true },
+  // experimental: { images: { unoptimized: true } },
+  // basePath: '',
+  // reactStrictMode: true,
+  // swcMinify: true,
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
